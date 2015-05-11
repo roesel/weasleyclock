@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>Location history from 05/09/2015 to 05/11/2015</name>
+<open>1</open>
+<description/>
+<StyleMap id="multiTrack">
+<Pair>
+<key>normal</key>
+<styleUrl>#multiTrack_n</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#multiTrack_h</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="multiTrack_n">
+<IconStyle>
+<Icon>
+<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>99ffac59</color>
+<width>6</width>
+</LineStyle>
+</Style>
+<Style id="multiTrack_h">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>99ffac59</color>
+<width>8</width>
+</LineStyle>
+</Style>
+<Placemark>
+<name>Latitude User</name>
+<description>Location history for Latitude User from 05/09/2015 to 05/11/2015</description>
+<styleUrl>#multiTrack</styleUrl>
+<gx:Track>
+<altitudeMode>clampToGround</altitudeMode>
+<when>2015-05-09T06:40:53.933-07:00</when>
+<gx:coord>14.4287017 50.0764387 225</gx:coord>
+<when>2015-05-10T05:40:10.273-07:00</when>
+<gx:coord>14.4261739 50.0764266 222</gx:coord>
+<when>2015-05-10T05:41:45.260-07:00</when>
+<gx:coord>14.4245939 50.0767527 216</gx:coord>
+<when>2015-05-10T05:44:11.146-07:00</when>
+<gx:coord>14.4216647 50.0766447 215</gx:coord>
+<when>2015-05-10T05:46:13.653-07:00</when>
+<gx:coord>14.4192348 50.0760341 206</gx:coord>
+<when>2015-05-10T06:00:47.860-07:00</when>
+<gx:coord>14.4630088 50.0974395 208</gx:coord>
+<when>2015-05-10T06:24:24.239-07:00</when>
+<gx:coord>14.4945845 50.1055671 216</gx:coord>
+<when>2015-05-10T06:31:43.133-07:00</when>
+<gx:coord>14.4945567 50.1047681 222</gx:coord>
+<when>2015-05-10T07:19:41.011-07:00</when>
+<gx:coord>14.4934836 50.1041732 227</gx:coord>
+<when>2015-05-10T07:58:41.270-07:00</when>
+<gx:coord>14.4944877 50.1045377 226</gx:coord>
+<when>2015-05-10T08:13:09.283-07:00</when>
+<gx:coord>14.4934824 50.1041781 227</gx:coord>
+<when>2015-05-10T09:34:10.057-07:00</when>
+<gx:coord>14.4950964 50.1041539 216</gx:coord>
+<when>2015-05-10T09:37:07.451-07:00</when>
+<gx:coord>14.49416 50.1056883 211</gx:coord>
+<when>2015-05-10T09:38:20.167-07:00</when>
+<gx:coord>14.4936905 50.1060311 214</gx:coord>
+<when>2015-05-10T09:46:55.106-07:00</when>
+<gx:coord>14.4946766 50.105043 208</gx:coord>
+<when>2015-05-10T09:52:19.102-07:00</when>
+<gx:coord>14.494316 50.1048781 200</gx:coord>
+<when>2015-05-10T09:54:40.933-07:00</when>
+<gx:coord>14.4953588 50.1046595 210</gx:coord>
+<when>2015-05-10T13:45:31.637-07:00</when>
+<gx:coord>14.4928509 50.1065971 216</gx:coord>
+<when>2015-05-10T14:01:40.465-07:00</when>
+<gx:coord>14.4372625 50.0927457 215</gx:coord>
+<when>2015-05-10T14:15:37.989-07:00</when>
+<gx:coord>14.4297602 50.0754742 231</gx:coord>
+<when>2015-05-10T14:18:18.986-07:00</when>
+<gx:coord>14.4286637 50.0762423 229</gx:coord>
+<when>2015-05-11T02:07:59.443-07:00</when>
+<gx:coord>14.4241187 50.0764235 214</gx:coord>
+<when>2015-05-11T02:09:33.443-07:00</when>
+<gx:coord>14.4226198 50.0764936 212</gx:coord>
+<when>2015-05-11T02:11:18.238-07:00</when>
+<gx:coord>14.4210655 50.0766604 208</gx:coord>
+<when>2015-05-11T02:16:48.197-07:00</when>
+<gx:coord>14.4171258 50.0744957 204</gx:coord>
+<when>2015-05-11T03:24:42.112-07:00</when>
+<gx:coord>14.4175642 50.0746837 205</gx:coord>
+<when>2015-05-11T03:38:14.366-07:00</when>
+<gx:coord>14.4171442 50.0745717 207</gx:coord>
+<when>2015-05-11T03:57:41.517-07:00</when>
+<gx:coord>14.4174618 50.0743881 208</gx:coord>
+<when>2015-05-11T04:21:14.632-07:00</when>
+<gx:coord>14.4173241 50.0749666 206</gx:coord>
+<when>2015-05-11T04:26:10.493-07:00</when>
+<gx:coord>14.4189306 50.0747705 208</gx:coord>
+<when>2015-05-11T04:28:58.561-07:00</when>
+<gx:coord>14.4187632 50.0754836 208</gx:coord>
+<when>2015-05-11T04:41:29.000-07:00</when>
+<gx:coord>14.4970492 50.0995793 208</gx:coord>
+<when>2015-05-11T04:48:58.118-07:00</when>
+<gx:coord>14.442301 50.1080734 193</gx:coord>
+<when>2015-05-11T04:50:55.155-07:00</when>
+<gx:coord>14.4493458 50.1164367 188</gx:coord>
+<when>2015-05-11T04:55:22.905-07:00</when>
+<gx:coord>14.4489161 50.1149422 199</gx:coord>
+<when>2015-05-11T05:05:43.341-07:00</when>
+<gx:coord>14.4496448 50.1149646 201</gx:coord>
+<when>2015-05-11T05:13:21.136-07:00</when>
+<gx:coord>14.4499065 50.1149661 204</gx:coord>
+<when>2015-05-11T05:33:25.167-07:00</when>
+<gx:coord>14.449915 50.114967 203</gx:coord>
+</gx:Track>
+</Placemark>
+</Document>
+</kml>
